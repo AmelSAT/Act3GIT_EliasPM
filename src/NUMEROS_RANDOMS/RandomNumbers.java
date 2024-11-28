@@ -9,7 +9,7 @@ public class RandomNumbers {
 
     public static void generateRandomNumbers() {
         Random random = new Random();
-        for (int i = 0; i < 20; i++) {
+        for (int i = 0; i < 30; i++) {
             int randomNumber = 1 + random.nextInt(10);
             System.out.println(randomNumber);
         }
