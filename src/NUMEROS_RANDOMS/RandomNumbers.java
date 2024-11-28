@@ -1,7 +1,5 @@
 package NUMEROS_RANDOMS;
 
-package NUMEROS_RANDOMS;
-
 import java.util.Random;
 
 public class RandomNumbers {
